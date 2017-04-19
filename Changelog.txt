@@ -1,0 +1,14 @@
+1.01
+Rhun blacksmith allowed
+Rhun no need for houses fixed
+QUICKFIX - Dwarven stonework upgrade does not change stables - missing graphics
+Umbar elite Black Numenorian upgrade allowed
+Sildar Nobility also affects scouts
+Nodorin Crafts now working
+Mumakil changed - lowered defences by 2, increased price, added trample damage
+Turn statistics of research hidden (TEST CHEAT techs required techs set to 1)
+
+Known bugs:
+Missing rhun graphics for royal guard
+Missing dwarven graphics for stable
+Mumakil switching between meelee and ranged damage
