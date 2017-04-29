@@ -1,3 +1,7 @@
+1.02
+Added new AI made by Daniel Sery
+- Only hard and hardest difficulties are available
+
 1.01
 Rhun blacksmith allowed
 Rhun no need for houses fixed
@@ -12,3 +16,4 @@ Known bugs:
 Missing rhun graphics for royal guard
 Missing dwarven graphics for stable
 Mumakil switching between meelee and ranged damage
+Wrong scout unit for Arnor
