@@ -1,3 +1,6 @@
+1.04
+AI - computer uses names according to the civilization
+
 1.03
 AI - all difficulties now implemented
 
