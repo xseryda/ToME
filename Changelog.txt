@@ -1,3 +1,6 @@
+1.05
+AI - various improvements
+
 1.04
 AI - computer uses names according to the civilization
 
