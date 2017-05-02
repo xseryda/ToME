@@ -4,7 +4,7 @@ All the credits go to pulkit24 and other developpers of the ToME mod. They did 9
 
 The goal of this version is to make the mod playable while we wait for the final version developed by pulkit24 and his colleagues.
 
-
+AI was so far tested only on Breeland, starting age - dark Age, max population 150.
 
 How to install:
 1. Rewrite the empires2_x1_p1.dat file in the C:\Program Files (x86)\Microsoft Games\Age of Empires II\Games\ToME\Data (or similar if you installed Age of Empires somewhere else) by the file from the repository.

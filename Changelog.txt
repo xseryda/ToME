@@ -1,3 +1,6 @@
+1.07
+AI - fixed when AI has no friends
+
 1.06
 AI - now picks up relics and trades with allies
 
