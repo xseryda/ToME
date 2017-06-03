@@ -1,3 +1,10 @@
+1.10
+Jonas - small tweaks
+
+1.09
+Jonas - small tweaks
+Stone troll - 10 defence against fear
+
 1.08
 AI - small tweaks
 Jonas - new intelligence added, should be better than AI most of the time, will be further worked on
@@ -40,7 +47,7 @@ Rhun no need for houses fixed
 QUICKFIX - Dwarven stonework upgrade does not change stables - missing graphics
 Umbar elite Black Numenorian upgrade allowed
 Sildar Nobility also affects scouts
-Nodorin Crafts now working
+Nodorin Crafts fixed
 Mumakil changed - lowered defences by 2, increased price, added trample damage
 Turn statistics of research hidden (TEST CHEAT techs required techs set to 1)
 
@@ -52,3 +59,15 @@ Returned gold and food for dead units technologies not working
 Heated shot bad description/not working
 Prices of units in wonder not displayed
 Lothlorien resources last longer not implemented
+Map descriptions mixed up
+Dol Guldur Necromancy not working
+
+Fixed bugs:
+Rhun blacksmith missing
+Rhun no need for houses missing
+Umbar elite Black Numenorian upgrade faulty
+Sildar Nobility not affecting scout-cavalry
+Nodorin Crafts not working
+buttleries, storehouses, gardens of Lorien, adamantium exploration, mithril mining faulty (all increase production)
+Added bonuses against monsters for spearman/pikeman/royal guard missing
+missing graphics for royal guards
