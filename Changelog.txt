@@ -1,3 +1,20 @@
+1.08
+AI - small tweaks
+Jonas - new intelligence added, should be better than AI most of the time, will be further worked on
+Fixed buttleries, storehouses, gardens of Lorien, adamantium exploration, mithril mining
+storehouses only add 25% instead of 50%
+Balrog hero status removed - does not regenerate
+Balrog price increased to 500f, 500g
+Winged Nazgul price increased to 250f, 350g
+Roquentar/Tar Roquentar price increased to 80f, 65g
+Wainrider/Armored Wainrider price increased to 100w, 60g
+Wainrider/Armored Wainrider armors reduced by 1/1
+Numenor added Storehouses technology
+Elflord, Cano hero status removed (for TSA to work), added 1/1 defences
+Dúnadan Captain/Chieftain now have 1/1, 1/2 defences, 11, 13 attacks
+Added 3/3/5 bonuses against monsters for spearman/pikeman/royal guard
+Fixed missing graphics for royal guards - used pikeman graphics
+
 1.07
 AI - fixed when AI has no friends
 
@@ -28,7 +45,10 @@ Mumakil changed - lowered defences by 2, increased price, added trample damage
 Turn statistics of research hidden (TEST CHEAT techs required techs set to 1)
 
 Known bugs:
-Missing rhun graphics for royal guard
 Missing dwarven graphics for stable
+Dwarven castle cannot fire beneath itself
 Mumakil switching between meelee and ranged damage
-Wrong scout unit for Arnor
+Returned gold and food for dead units technologies not working
+Heated shot bad description/not working
+Prices of units in wonder not displayed
+Lothlorien resources last longer not implemented
